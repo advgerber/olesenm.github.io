@@ -3,7 +3,7 @@ layout: default
 title:  About
 ---
 
-### This site ###{: class="vlist"}
+### This site ###{: class="vlist"} no
 
 Born out of necessity (to get github project pages working), I figured
 blogging may even prove a useful means of noting things that would otherwise
